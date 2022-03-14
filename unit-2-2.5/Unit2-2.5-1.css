@@ -1,0 +1,35 @@
+﻿mainbody {
+}
+.wrapper {
+    width: 800px;
+}
+
+.header {
+    width: 800px;
+    height: 100px;
+    float: left;
+    background-color: #edf7ab;
+}
+
+.container {
+    width: 800px;
+    height:600px;
+    float: left;
+    background-color: #bded90;
+}
+
+.footer {
+    width: 800px;
+    height: 100px;
+    float: left;
+    text-align:center;
+    background-color: aquamarine;
+}
+.wrap {
+    text-align:center;
+}
+.iframe {
+    height:215px;
+    width:360px;
+
+}
