@@ -1,0 +1,31 @@
+﻿body {
+}
+.wrapper{
+    width:800px;
+}
+.header{
+    width:800px;
+    height:100px;
+    float:left;
+    background-color:#edf7ab;
+
+}
+.container{
+    width:800px;
+    
+    float:left;
+    background-color:#bded90;
+}
+.footer{
+    width:800px;
+    height:100px;
+    float:left;
+    background-color:aquamarine;
+}
+.textbulletpoint{
+    text-align:left;
+
+}
+.text2{
+    text-align:left;
+}
