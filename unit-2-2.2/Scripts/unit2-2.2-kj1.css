@@ -1,0 +1,36 @@
+﻿body {
+}
+.wrapper {
+    width: 900px;
+}
+
+.header {
+    width: 900px;
+    height: 70px;
+    float: left;
+    background-color:#4cff00;
+}
+
+.container {
+    width: 900px;
+    float: left;
+    background-color:#d3bf4d;
+}
+
+.footer {
+    width: 900px;
+    height: 70px;
+    float: left;
+    background-color: #e0c3c3;
+}
+.textbullet{
+    text-align:left;
+}
+.text{
+    text-align:left;
+}
+.pic1 {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
