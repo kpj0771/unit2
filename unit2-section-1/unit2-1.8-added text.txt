@@ -1,5 +1,0 @@
-A company would have in place an address link, which can identify to their users, the information a file will hold,it would include the name of the topic,an element of the topic,a date,name of the author,the reason the element has changed,the position this document concerns within the topic,and the file type.
-
-an examlpe of video would be;
-
-softwareDev-unit2-1.8-kj-edit-paint-PNG.doc
